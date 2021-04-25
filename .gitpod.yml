@@ -3,7 +3,7 @@ image:
 
 # tasks:
   # - init: /usr/bin/start-vnc-session.sh
-  # - command: cd /usr/local/FileZilla3/bin/ && ./filezilla
+  # - command: git clone --depth 1 https://github.com/Baneeishaque/configuartions-private.git config && cd /usr/local/FileZilla3/bin/ && ./filezilla
 
 # Ports to expose on workspace startup
 ports:
